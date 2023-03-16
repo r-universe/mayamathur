@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MetaUtility"]
+	path = MetaUtility
+	url = https://github.com/mayamathur/metautility
+	shallow = true
+	registered = true
