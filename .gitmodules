@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EValue"]
 	path = EValue
 	url = https://github.com/cran/EValue
-	shallow = true
-	registered = true
 [submodule "MetaUtility"]
 	path = MetaUtility
 	url = https://github.com/mayamathur/metautility
-	shallow = true
-	registered = true
 [submodule "NRejections"]
 	path = NRejections
 	url = https://github.com/cran/NRejections
-	shallow = true
-	registered = true
 [submodule "Replicate"]
 	path = Replicate
 	url = https://github.com/cran/Replicate
-	shallow = true
-	registered = true
 [submodule "SimTimeVar"]
 	path = SimTimeVar
 	url = https://github.com/cran/SimTimeVar
-	shallow = true
-	registered = true
