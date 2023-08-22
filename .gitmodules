@@ -17,3 +17,6 @@
 [submodule "SimTimeVar"]
 	path = SimTimeVar
 	url = https://github.com/cran/SimTimeVar
+[submodule "truncnormbayes"]
+	path = truncnormbayes
+	url = https://github.com/mayamathur/truncnormbayes
