@@ -14,6 +14,3 @@
 [submodule "Replicate"]
 	path = Replicate
 	url = https://github.com/cran/Replicate
-[submodule "SimTimeVar"]
-	path = SimTimeVar
-	url = https://github.com/cran/SimTimeVar
